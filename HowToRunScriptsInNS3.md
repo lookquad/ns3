@@ -8,8 +8,9 @@
 
 Now to run the program type
 
-### $./waf --run <program-name>
+### $./waf --run program-name
+If you are writing code in (say)filename.cc, then you do not need to add extensions (.cc) with the file name while running the code.
   
 To view the output in visualizer u can type
 
-### $./waf --run <program-namae> --vis
+### $./waf --run program-namae --vis
