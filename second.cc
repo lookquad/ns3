@@ -29,7 +29,7 @@
 //    point-to-point  |    |    |    |
 //                    ================
 //                      LAN 10.1.2.0
-
+//this is a combination of two topology.
 
 using namespace ns3;
 
